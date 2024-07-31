@@ -1,0 +1,25 @@
+{
+  "name": "couchdb-doc_purger",
+  "version": "1.1.0",
+  "description": "Purge all deleted CouchDB Documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://veto@calantas.org/couchdb-doc_purger"
+  },
+  "keywords": [
+    "couchdb",
+    "purge",
+    "delete",
+    "documents",
+    "all"
+  ],
+  "author": "veto@myridia.com",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
