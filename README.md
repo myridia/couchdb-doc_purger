@@ -1,3 +1,4 @@
+<img src="couchdb-doc_purger.svg" alt="couchdb-doc_purger" width="120">
 # couchdb-doc_purger
 
 ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/CouchDB.svg/290px-CouchDB.svg.png)
